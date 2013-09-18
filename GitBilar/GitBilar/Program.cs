@@ -9,7 +9,14 @@ namespace GitBilar
     class Program
     {
         static void Main(string[] args)
-        {
+        { 
+
         }
+    }
+    class Bil
+    {
+        public string Brand { get; set; }
+        public string Model
+            public int year
     }
 }
