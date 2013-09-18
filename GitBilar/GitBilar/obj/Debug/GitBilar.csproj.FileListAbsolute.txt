@@ -1,1 +1,2 @@
 C:\Users\mikael.shiravand\Desktop\GitBilar\GitBilar\bin\Debug\GitBilar.exe.config
+C:\Users\mikael.shiravand\Documents\repo\onsdag\GitBilar\GitBilar\bin\Debug\GitBilar.exe.config
